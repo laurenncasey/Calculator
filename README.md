@@ -1,5 +1,7 @@
-# Calculator
-Mobile Development Introduction to Kotlin/Android Studio calculator application. A Kotlin language based Statistics Calculator produced through Android Studios. 
+# Kotlin Calculator
+Mobile Development Introduction to Kotlin/Android Studio calculator application. A Kotlin language based Statistics Calculator produced through Android Studios.
+
+Mobile Development class at UW-Eau Claire provided this project in class for the Computer Science Major. 
 ***
 ## Invalid Input
 |Input|Example|Description|
