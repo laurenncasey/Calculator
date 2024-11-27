@@ -1,7 +1,7 @@
-# Kotlin Calculator
-Mobile Development Introduction to Kotlin/Android Studio calculator application. A Kotlin language based Statistics Calculator produced through Android Studios.
+# Mobile Development: Kotlin/Android Studio Calculator Application 
+This project is a Statistics Calculator built using Kotlin and developed in Android Studio. It showcases key features of mobile development, providing a user-friendly interface to perform various statistical calculations.
 
-Mobile Development class at UW-Eau Claire provided this project in class for the Computer Science Major. 
+The project was developed as part of the Mobile Development course at the University of Wisconsin–Eau Claire for the Computer Science major. Through this application, students gained hands-on experience with Kotlin programming and Android application development, focusing on mobile UI design, functionality, and Kotlin's powerful language features.
 ***
 ## Invalid Input
 |Input|Example|Description|
